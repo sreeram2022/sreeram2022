@@ -6,5 +6,4 @@
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: Mail: pvsreeram1@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Mac lover
-- ###
+- ⚡ Fun fact: Mac lover ###
