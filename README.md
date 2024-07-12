@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreeram2022&label=Profile%20views&color=0e75b6&style=flat" alt="sreeram2022" /> </p>
 
-- 🔭 I’m currently working on **NLP.**
+- 🔭 I’m currently working on **shell scripting.**
 
 - 🌱 I’m currently learning **Django, swift.**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LOSnzmQUxTfvJ6Do5Zz08TvZMoBo5JHO/view?usp=sharing](https://drive.google.com/file/d/1LOSnzmQUxTfvJ6Do5Zz08TvZMoBo5JHO/view?usp=sharing)
 
-- ⚡ Fun fact **Mac lover**
+- ⚡ Fun fact **Linux lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
