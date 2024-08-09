@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sreeram</h1>
-<h3 align="center">https://sreeram2022.github.io/Portfolio/ </h3>
+<h3 align="center">https://sreeram2022.github.io/life/</h3>
 
 - 🔭 I’m currently working on **shell scripting.**
 
