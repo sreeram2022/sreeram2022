@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sreeram</h1>
-<h3 align="center">[venkatasreeram.com](venkatasreeram.com)</h3>
+<h3 align="center">venkatasreeram.com</h3>
 
 - 🔭 I’m currently working on **shell scripting.**
 
