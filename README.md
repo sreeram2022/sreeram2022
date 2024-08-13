@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sreeram</h1>
 <h3 align="center"><a href="https://venkatasreeram.com/" target="_blank">venkatasreeram.com</a></h3>
 
-- 🔭 I’m currently working on **shell scripting.**
+- 🔭 I’m currently working on **my blog and linux configurations.**
 
 - 🌱 Learning **Django, swift.**
 
