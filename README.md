@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sreeram</h1>
-<h3 align="center">[venkatasreeram.com](https://drive.google.com/file/d/1nrcrkX1QWkPMUISyMxOyNsQTQFx9l4oC/view?usp=sharing)</h3>
+<h3 align="center"><a href="https://venkatasreeram.com/" target="_blank">venkatasreeram.com</a></h3>
 
 - 🔭 I’m currently working on **shell scripting.**
 
