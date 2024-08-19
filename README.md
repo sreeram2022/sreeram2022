@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pvsreeram1@gmail.com**
 
-- 📄 Know about my experiences [here.](https://drive.google.com/file/d/1nrcrkX1QWkPMUISyMxOyNsQTQFx9l4oC/view?usp=sharing)
+- 📄 Know about my experiences [here.](https://drive.google.com/file/d/10LbhHEg4q6RSA7ICIOHx72vX7PMI_Ycv/view?usp=sharing)
 
 - ⚡ Fun fact **Linux lover**
 
